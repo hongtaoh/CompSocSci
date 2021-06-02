@@ -1,5 +1,12 @@
 # Computational Social Science, Graduate Programs and Researchers
 
+<!-- 
+https://pandoc.org/MANUAL.html
+
+https://stackoverflow.com/a/42249534
+
+pandoc -s --toc README.md -o toc.md -->
+
 The list is incomplete. More at [Google Scholar](https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label%3Acomputational_social_science&btnG=)
 
 ## Contibution
@@ -10,65 +17,38 @@ To contribute, please fork this repository, and [submit a pull request](https://
 
 -   [West](#west)
     -   [University of Washington](#university-of-washington)
-    -   [USC, [Annenberg School for Communication and
-        Journalism](https://annenberg.usc.edu/communication/communication-phd)](#usc-annenberg-school-for-communication-and-journalism)
-    -   [UCLA, [Department of
-        Communication](https://comm.ucla.edu/graduate/program/)](#ucla-department-of-communication)
-    -   [UC Davis, [Department of
-        Communication](https://communication.ucdavis.edu/graduate/program)](#uc-davis-department-of-communication)
+    -   [USC](#usc)
+    -   [UCLA](#ucla)
+    -   [UC Davis](#uc-davis)
     -   [Stanford](#stanford)
-    -   [University of Colorado Boulder, [Computer
-        Science](https://www.colorado.edu/cs/academics/graduate-programs)](#university-of-colorado-boulder-computer-science)
+    -   [University of Colorado
+        Boulder](#university-of-colorado-boulder)
 -   [Midwest](#midwest)
-    -   [Indiana University, [Department of
-        Informatics](https://informatics.indiana.edu/)](#indiana-university-department-of-informatics)
+    -   [Indiana University](#indiana-university)
     -   [Northwestern University](#northwestern-university)
-    -   [University of Chicago, [Department of Computer
-        Science](https://computerscience.uchicago.edu/graduate/phd-programs/)](#university-of-chicago-department-of-computer-science)
-    -   [University of Michigan, [School of
-        Information](https://www.si.umich.edu/)](#university-of-michigan-school-of-information)
-    -   [UIUC, [Department of
-        Communication](https://communication.illinois.edu/academics/ma-phd-program)](#uiuc-department-of-communication)
-    -   [MSU, [Department of
-        Communication](https://comartsci.msu.edu/academics/academic-departments/communication/graduate/phd-communication)](#msu-department-of-communication)
+    -   [University of Chicago](#university-of-chicago)
+    -   [University of Michigan](#university-of-michigan)
+    -   [UIUC](#uiuc)
+    -   [MSU](#msu)
 -   [Northeast](#northeast)
     -   [Upenn](#upenn)
-    -   [MIT, [Media
-        Lab](https://www.media.mit.edu/graduate-program/about-media-arts-sciences/)](#mit-media-lab)
-    -   [Pittsburgh, [School of Computing and
-        Information](https://www.sci.pitt.edu/academics/doctoral-degrees)](#pittsburgh-school-of-computing-and-information)
-    -   [Drexel, [College of Computing and
-        Informatics](https://drexel.edu/cci/academics/doctoral-programs/)](#drexel-college-of-computing-and-informatics)
-    -   [Vermont, [Vermont Complex Systems
-        Center](https://vermontcomplexsystems.org/education/phd/)](#vermont-vermont-complex-systems-center)
-    -   [Rochester, [Department of Computer
-        Science](https://www.cs.rochester.edu/graduate/phd-program.html)](#rochester-department-of-computer-science)
+    -   [MIT](#mit)
+    -   [Pittsburgh](#pittsburgh)
+    -   [Drexel](#drexel)
+    -   [Vermont](#vermont)
+    -   [Rochester](#rochester)
     -   [UMass](#umass)
     -   [Cornell](#cornell)
-    -   [Northeastern University, [PhD in Network
-        Science](https://netsi.khoury.northeastern.edu/)](#northeastern-university-phd-in-network-science)
-    -   [Boston University, [College of
-        Communication](http://www.bu.edu/com/academics/emerging-media-studies/phd-in-emerging-media-studies/)](#boston-university-college-of-communication)
+    -   [Northeastern University](#northeastern-university)
+    -   [Boston University](#boston-university)
 -   [South](#south)
-    -   [Duke, [Computer
-        Science](https://scholar.google.com/citations?user=BICiUrQAAAAJ)](#duke-computer-science)
-    -   [UNC-Chapel Hill, [Hussman School of Media and
-        Journalism](http://hussman.unc.edu/grad)](#unc-chapel-hill-hussman-school-of-media-and-journalism)
+    -   [Duke](#duke)
+    -   [UNC-Chapel Hill](#unc-chapel-hill)
 -   [Outside of USA](#outside-of-usa)
-    -   [Japan, Tokyo Institute of
-        Technology](#japan-tokyo-institute-of-technology)
-    -   [South Korea, KAIST, [IBS Data Science
-        Group](https://ds.ibs.re.kr/)](#south-korea-kaist-ibs-data-science-group)
-    -   [Singapore, Singapore Management University, [School of
-        Computing and Information
-        Systems](https://scis.smu.edu.sg/programmes/PhD/overview)](#singapore-singapore-management-university-school-of-computing-and-information-systems)
-    -   [China, UESTC，[School of Computer Science and
-        Engineering](https://www.scse.uestc.edu.cn/rcpy/zsjz.htm)](#china-uestcschool-of-computer-science-and-engineering)
-    -   [China, Chinese University of Hong Kong, [School of Journalism
-        and
-        Communication](http://pg.com.cuhk.edu.hk/)](#china-chinese-university-of-hong-kong-school-of-journalism-and-communication)
-    -   [China, CityU of Hong Kong, [Department of Media and
-        Communication](https://www.cityu.edu.hk/com/Page.aspx?p=PHD_Introduction)](#china-cityu-of-hong-kong-department-of-media-and-communication)
+    -   [Japan](#japan)
+    -   [South Korea](#south-korea)
+    -   [Singapore](#singapore)
+    -   [China](#china)
 
 ## West
 
@@ -84,15 +64,21 @@ To contribute, please fork this repository, and [submit a pull request](https://
 
 - [Emma Spiro](https://ischool.uw.edu/people/faculty/profile/espiro), [Google Scholar](https://scholar.google.com/citations?user=fxoKFbEAAAAJ&hl=en&oi=ao)
 
-### USC, [Annenberg School for Communication and Journalism](https://annenberg.usc.edu/communication/communication-phd)
+### USC
+
+#### [Annenberg School for Communication and Journalism](https://annenberg.usc.edu/communication/communication-phd)
 
 - Emilio Ferrara, [Google Scholar](https://scholar.google.com/citations?hl=en&user=0r7Syh0AAAAJ)
 
-### UCLA, [Department of Communication](https://comm.ucla.edu/graduate/program/)
+### UCLA
+
+#### [Department of Communication](https://comm.ucla.edu/graduate/program/)
 
 - [Jungseock Joo](https://comm.ucla.edu/person/jungseock-joo/), [Google Scholar](https://scholar.google.com/citations?user=ePNRe-EAAAAJ&hl=en&oi=ao)
 
-### UC Davis, [Department of Communication](https://communication.ucdavis.edu/graduate/program)
+### UC Davis
+
+#### [Department of Communication](https://communication.ucdavis.edu/graduate/program)
 
 - [Cuihua Shen](https://communication.ucdavis.edu/people/cuishen), [Google Scholar](https://scholar.google.com/citations?user=qoj5YaYAAAAJ&hl=en&oi=ao)
 
@@ -108,7 +94,9 @@ To contribute, please fork this repository, and [submit a pull request](https://
 
 - Michal Kosinski, [Homepage](https://www.michalkosinski.com/), [Google Scholar](https://scholar.google.com/citations?hl=en&user=01-XV0YAAAAJ)
 
-### University of Colorado Boulder, [Computer Science](https://www.colorado.edu/cs/academics/graduate-programs)
+### University of Colorado Boulder
+
+#### [Department of Computer Science](https://www.colorado.edu/cs/academics/graduate-programs)
 
 - [Aaron Clauset](https://www.colorado.edu/cs/aaron-clauset), [Google Scholar](https://scholar.google.com/citations?hl=en&user=e7VI_HcAAAAJ)
 
@@ -116,7 +104,9 @@ To contribute, please fork this repository, and [submit a pull request](https://
 
 ## Midwest
 
-### Indiana University, [Department of Informatics](https://informatics.indiana.edu/)
+### Indiana University
+
+#### [Department of Informatics](https://informatics.indiana.edu/)
   - Yong-Yeol Ahn, [Homepage](http://yongyeol.com/), [Google Scholar](https://scholar.google.com/citations?user=US7OSNgAAAAJ&hl)
   - Santo Fortunato, [Google Scholar](https://scholar.google.com/citations?hl=en&user=NDrCCokAAAAJ)
   - Filippo Menczer, [Google Scholar](https://scholar.google.com/citations?hl=en&user=f_kGJwkAAAAJ)
@@ -130,11 +120,15 @@ To contribute, please fork this repository, and [submit a pull request](https://
 #### Kellogg School of Management
 - Dashun Wang, [Google Scholar](https://scholar.google.com/citations?user=uQJAkBoAAAAJ)
 
-### University of Chicago, [Department of Computer Science](https://computerscience.uchicago.edu/graduate/phd-programs/)
+### University of Chicago
+
+#### [Department of Computer Science](https://computerscience.uchicago.edu/graduate/phd-programs/)
 
 - [Chenhao Tan](https://computerscience.uchicago.edu/people/profile/chenhao-tan/), [Google Scholar](https://scholar.google.com/citations?user=KGMaP18AAAAJ&hl=en&oi=ao)
 
-### University of Michigan, [School of Information](https://www.si.umich.edu/)
+### University of Michigan
+
+#### [School of Information](https://www.si.umich.edu/)
 
 - [Daniel M. Romero](https://www.si.umich.edu/people/daniel-romero), [Google Scholar](https://scholar.google.com/citations?hl=en&user=c4M3MQoAAAAJ)
 
@@ -142,11 +136,15 @@ To contribute, please fork this repository, and [submit a pull request](https://
 
 - [Misha Teplitskiy](https://www.si.umich.edu/people/misha-teplitskiy), [Google Scholar](https://scholar.google.com/citations?user=DzSXZd9yYy8C&hl=en&oi=ao)
 
-### UIUC, [Department of Communication](https://communication.illinois.edu/academics/ma-phd-program)
+### UIUC
+
+#### [Department of Communication](https://communication.illinois.edu/academics/ma-phd-program)
 
 - [JungHwan Yang](https://communication.illinois.edu/directory/profile/junghwan), [Google Scholar](https://scholar.google.com/citations?user=bn4ZhN4AAAAJ&hl=en&oi=ao)
 
-### MSU, [Department of Communication](https://comartsci.msu.edu/academics/academic-departments/communication/graduate/phd-communication)
+### MSU
+
+#### [Department of Communication](https://comartsci.msu.edu/academics/academic-departments/communication/graduate/phd-communication)
 
 - [Tai-Quan "Winson" Peng](https://comartsci.msu.edu/our-people/taiquan-winson-peng), [Google Scholar](https://scholar.google.com/citations?user=iF4HlRQAAAAJ&hl=en&oi=ao)
 
@@ -165,13 +163,17 @@ To contribute, please fork this repository, and [submit a pull request](https://
 
 - [Duncan J. Watts](https://directory.seas.upenn.edu/duncan-j-watts/), [Google Scholar](https://scholar.google.com/citations?user=LhOAiXMAAAAJ)
 
-### MIT, [Media Lab](https://www.media.mit.edu/graduate-program/about-media-arts-sciences/)
+### MIT
+
+#### [Media Lab](https://www.media.mit.edu/graduate-program/about-media-arts-sciences/)
 
 - [Alex 'Sandy' Pentland](https://www.media.mit.edu/people/sandy/overview/), [Google Scholar](https://scholar.google.com/citations?hl=en&user=P4nfoKYAAAAJ)
 
 - [Deb Roy](https://www.media.mit.edu/people/dkroy/overview/), [Google Scholar](https://scholar.google.com/citations?user=btoec6QAAAAJ&hl=en&oi=ao)
 
-### Pittsburgh, [School of Computing and Information](https://www.sci.pitt.edu/academics/doctoral-degrees)
+### Pittsburgh
+
+#### [School of Computing and Information](https://www.sci.pitt.edu/academics/doctoral-degrees)
 
 - [Morgan Frank](https://www.sci.pitt.edu/people/morgan-frank), [Google Scholar](https://scholar.google.com/citations?user=HZcCKu8AAAAJ&hl=en&oi=ao)
 
@@ -181,15 +183,21 @@ To contribute, please fork this repository, and [submit a pull request](https://
 
 - [Yu-Ru Lin](https://www.sci.pitt.edu/people/yu-ru-lin), [Google Scholar](https://scholar.google.com/citations?user=9EeqDSEAAAAJ&hl=en&oi=ao)
 
-### Drexel, [College of Computing and Informatics](https://drexel.edu/cci/academics/doctoral-programs/)
+### Drexel
+
+#### [College of Computing and Informatics](https://drexel.edu/cci/academics/doctoral-programs/)
 
 - [Jake Ryland Williams](https://drexel.edu/cci/about/directory/W/Williams-Jake/), [Google Scholar](https://scholar.google.com/citations?user=Xtj0EBAAAAAJ&hl=en&oi=ao)
 
-### Vermont, [Vermont Complex Systems Center](https://vermontcomplexsystems.org/education/phd/)
+### Vermont
+
+#### [Vermont Complex Systems Center](https://vermontcomplexsystems.org/education/phd/)
 
 - [Chris Danforth](https://cdanfort.w3.uvm.edu/),[Google Scholar](https://scholar.google.com/citations?user=huQnquIAAAAJ&hl=en&oi=ao) 
 
-### Rochester, [Department of Computer Science](https://www.cs.rochester.edu/graduate/phd-program.html)
+### Rochester
+
+#### [Department of Computer Science](https://www.cs.rochester.edu/graduate/phd-program.html)
 
 - [Lane A. Hemaspaandra](https://www.cs.rochester.edu/people/faculty/hemaspaandra_lane/index.html), [Google Scholar](https://scholar.google.com/citations?user=_LsUHeoAAAAJ&hl=en&oi=ao)
 
@@ -204,7 +212,6 @@ To contribute, please fork this repository, and [submit a pull request](https://
 - [David D. Jensen](https://www.cics.umass.edu/faculty/directory/jensen_david), [Google Scholar](https://scholar.google.com/citations?user=cjkgjggAAAAJ&hl=en&oi=ao)
 
 - [Przemyslaw Grabowicz](https://www.cics.umass.edu/people/grabowicz-przemek), [Google Scholar](https://scholar.google.com/citations?user=QRXQ_GYAAAAJ&hl=en&oi=ao)
-
 
 #### [Department of Communication](https://www.umass.edu/communication/graduate)
 
@@ -230,7 +237,9 @@ To contribute, please fork this repository, and [submit a pull request](https://
 
 - [J. Nathan Matias](https://communication.cals.cornell.edu/people/j-nathan-matias/), [Google Scholar](https://scholar.google.com/citations?hl=en&user=dxS6iCgAAAAJ&view_op=list_works)
 
-### Northeastern University, [PhD in Network Science](https://netsi.khoury.northeastern.edu/)
+### Northeastern University
+
+#### [PhD in Network Science](https://netsi.khoury.northeastern.edu/)
 
 - [Albert-László Barabási](https://www.khoury.northeastern.edu/people/albert-laszlo-barabasi/), [Google Scholar](https://scholar.google.com/citations?user=vsj2slIAAAAJ&hl=en&oi=ao)
 
@@ -238,49 +247,63 @@ To contribute, please fork this repository, and [submit a pull request](https://
 
 - [Brooke Foucault Welles](https://camd.northeastern.edu/faculty/brooke-foucault-welles/), [Google Scholar](https://scholar.google.com/citations?user=WpWjK8QAAAAJ&hl=en&oi=ao)
 
-### Boston University, [College of Communication](http://www.bu.edu/com/academics/emerging-media-studies/phd-in-emerging-media-studies/)
+### Boston University
+
+#### [College of Communication](http://www.bu.edu/com/academics/emerging-media-studies/phd-in-emerging-media-studies/)
 
 - [Lei Guo](http://www.bu.edu/com/profile/lei-guo/), [Google Scholar](https://scholar.google.com/citations?user=p6yjJQcAAAAJ&hl=en)
 
 ## South
 
-### Duke, [Computer Science](https://scholar.google.com/citations?user=BICiUrQAAAAJ)
+### Duke
+
+#### [Computer Science](https://www.cs.duke.edu/graduate/phd)
 
 There is also a program at Duke called [Computational Media, Arts & Cultures](https://cmac.duke.edu/about)
 
 - [Alexander Volfovsky](https://stat.duke.edu/research/volfovsky), [Google Scholar](https://scholar.google.com/citations?user=9qHFzDoAAAAJ&hl=en&oi=ao)
 
 
-### UNC-Chapel Hill, [Hussman School of Media and Journalism](http://hussman.unc.edu/grad)
+### UNC-Chapel Hill
+
+#### [Hussman School of Media and Journalism](http://hussman.unc.edu/grad)
 
 - [Deen Freelon](http://hussman.unc.edu/directory/faculty/deen-freelon), [Google Scholar](https://scholar.google.com/citations?user=EjVT0LAAAAAJ&hl=en&oi=ao)
 
 
 ## Outside of USA
 
-### Japan, Tokyo Institute of Technology
+### Japan
+
+#### Tokyo Institute of Technology
 
 - [Petter Holme](https://www.wrhi.iir.titech.ac.jp/people/holme-petter/), [Google Scholar](https://scholar.google.com/citations?hl=en&user=v9f2xUAAAAAJ)
 
-### South Korea, KAIST, [IBS Data Science Group](https://ds.ibs.re.kr/)
+### South Korea
+
+#### KAIST, [IBS Data Science Group](https://ds.ibs.re.kr/)
 
 - [Meeyoung Cha](https://ds.ibs.re.kr/ci/), [Google Scholar](https://scholar.google.com/citations?hl=en&user=iFlnVCoAAAAJ)
 
-### Singapore, Singapore Management University, [School of Computing and Information Systems](https://scis.smu.edu.sg/programmes/PhD/overview)
+### Singapore
+
+#### Singapore Management University, [School of Computing and Information Systems](https://scis.smu.edu.sg/programmes/PhD/overview)
 
 - [Haewoon Kwak](https://scis.smu.edu.sg/faculty/profile/316/haewoon-kwak), [Google Scholar](https://scholar.google.com/citations?hl=en&user=dcjrz5MAAAAJ)
 
 - [Jisun An](https://scis.smu.edu.sg/faculty/profile/391/jisun-an), [Google Scholar](https://scholar.google.com/citations?user=FYtw3zkAAAAJ&hl=en)
 
-### China, UESTC，[School of Computer Science and Engineering](https://www.scse.uestc.edu.cn/rcpy/zsjz.htm)
+### China
+
+#### UESTC，[School of Computer Science and Engineering](https://www.scse.uestc.edu.cn/rcpy/zsjz.htm)
 
 - [Tao Zhou](https://faculty.uestc.edu.cn/zhoutao1/zh_CN/index.htm), [Google Scholar](https://scholar.google.com/citations?user=MXgWgmEAAAAJ&hl=en&oi=ao)
 
-### China, Chinese University of Hong Kong, [School of Journalism and Communication](http://pg.com.cuhk.edu.hk/)
+#### Chinese University of Hong Kong, [School of Journalism and Communication](http://pg.com.cuhk.edu.hk/)
 
 - [Hai Liang](http://www.com.cuhk.edu.hk/en-GB/people/teaching-staff/10-people/1353-liang-hai), [Google Scholar](https://scholar.google.com/citations?user=jtRNAJcAAAAJ&hl=en&oi=ao)
 
-### China, CityU of Hong Kong, [Department of Media and Communication](https://www.cityu.edu.hk/com/Page.aspx?p=PHD_Introduction)
+#### CityU of Hong Kong, [Department of Media and Communication](https://www.cityu.edu.hk/com/Page.aspx?p=PHD_Introduction)
 
 - [Jonathan Zhu](https://www.cityu.edu.hk/com/Profile.aspx?u=enjhzhu), [Google Scholar](https://scholar.google.com/citations?user=q41vFFQAAAAJ&hl=en&oi=ao)
 
