@@ -8,55 +8,67 @@ To contribute, please fork this repository, and [submit a pull request](https://
 
 ## Table of Contents
 
-- [West](#west)
-  * [University of Washington](#university-of-washington)
-    + [[Paul G. Allen School of Computer Science & Engineering](https://www.cs.washington.edu/academics/phd)](#-paul-g-allen-school-of-computer-science---engineering--https---wwwcswashingtonedu-academics-phd-)
-    + [[Information School](https://ischool.uw.edu/programs/phd)](#-information-school--https---ischooluwedu-programs-phd-)
-  * [USC, [Annenberg School for Communication and Journalism](https://annenberg.usc.edu/communication/communication-phd)](#usc---annenberg-school-for-communication-and-journalism--https---annenberguscedu-communication-communication-phd-)
-  * [UCLA, [Department of Communication](https://comm.ucla.edu/graduate/program/)](#ucla---department-of-communication--https---commuclaedu-graduate-program--)
-  * [UC Davis, [Department of Communication](https://communication.ucdavis.edu/graduate/program)](#uc-davis---department-of-communication--https---communicationucdavisedu-graduate-program-)
-  * [Stanford](#stanford)
-    + [[Department of Communication](https://comm.stanford.edu/phd/)](#-department-of-communication--https---commstanfordedu-phd--)
-    + [[Graduate School of Business](https://www.gsb.stanford.edu/programs/phd/admission)](#-graduate-school-of-business--https---wwwgsbstanfordedu-programs-phd-admission-)
-  * [University of Colorado Boulder, [Computer Science](https://www.colorado.edu/cs/academics/graduate-programs)](#university-of-colorado-boulder---computer-science--https---wwwcoloradoedu-cs-academics-graduate-programs-)
-- [Midwest](#midwest)
-  * [Indiana University, [Department of Informatics](https://informatics.indiana.edu/)](#indiana-university---department-of-informatics--https---informaticsindianaedu--)
-  * [Northwestern University](#northwestern-university)
-    + [Communication, [MTS](https://mts.northwestern.edu/), [TSB](https://tsb.northwestern.edu/)](#communication---mts--https---mtsnorthwesternedu-----tsb--https---tsbnorthwesternedu--)
-    + [Kellogg School of Management](#kellogg-school-of-management)
-  * [University of Chicago, [Department of Computer Science](https://computerscience.uchicago.edu/graduate/phd-programs/)](#university-of-chicago---department-of-computer-science--https---computerscienceuchicagoedu-graduate-phd-programs--)
-  * [University of Michigan, [School of Information](https://www.si.umich.edu/)](#university-of-michigan---school-of-information--https---wwwsiumichedu--)
-  * [UIUC, [Department of Communication](https://communication.illinois.edu/academics/ma-phd-program)](#uiuc---department-of-communication--https---communicationillinoisedu-academics-ma-phd-program-)
-  * [MSU, [Department of Communication](https://comartsci.msu.edu/academics/academic-departments/communication/graduate/phd-communication)](#msu---department-of-communication--https---comartscimsuedu-academics-academic-departments-communication-graduate-phd-communication-)
-- [Northeast](#northeast)
-  * [Upenn](#upenn)
-    + [[Annenberg School for Communication](https://www.asc.upenn.edu/graduate)](#-annenberg-school-for-communication--https---wwwascupennedu-graduate-)
-    + [[Department of Computer and Information Science](https://www.cis.upenn.edu/graduate/) & [Operations, Information and Decisions Department](https://oid.wharton.upenn.edu/programs/)](#-department-of-computer-and-information-science--https---wwwcisupennedu-graduate------operations--information-and-decisions-department--https---oidwhartonupennedu-programs--)
-  * [MIT, [Media Lab](https://www.media.mit.edu/graduate-program/about-media-arts-sciences/)](#mit---media-lab--https---wwwmediamitedu-graduate-program-about-media-arts-sciences--)
-  * [Pittsburgh, [School of Computing and Information](https://www.sci.pitt.edu/academics/doctoral-degrees)](#pittsburgh---school-of-computing-and-information--https---wwwscipittedu-academics-doctoral-degrees-)
-  * [Drexel, [College of Computing and Informatics](https://drexel.edu/cci/academics/doctoral-programs/)](#drexel---college-of-computing-and-informatics--https---drexeledu-cci-academics-doctoral-programs--)
-  * [Vermont, [Vermont Complex Systems Center](https://vermontcomplexsystems.org/education/phd/)](#vermont---vermont-complex-systems-center--https---vermontcomplexsystemsorg-education-phd--)
-  * [Rochester, [Department of Computer Science](https://www.cs.rochester.edu/graduate/phd-program.html)](#rochester---department-of-computer-science--https---wwwcsrochesteredu-graduate-phd-programhtml-)
-  * [UMass](#umass)
-    + [[College of Information and Computer Sciences](https://www.cics.umass.edu/degree-program/doctoral)](#-college-of-information-and-computer-sciences--https---wwwcicsumassedu-degree-program-doctoral-)
-    + [[Department of Communication](https://www.umass.edu/communication/graduate)](#-department-of-communication--https---wwwumassedu-communication-graduate-)
-  * [Cornell](#cornell)
-    + [[Information Science](https://infosci.cornell.edu/phd)](#-information-science--https---infoscicornelledu-phd-)
-    + [[Department of Communication](https://communication.cals.cornell.edu/graduate-program/)](#-department-of-communication--https---communicationcalscornelledu-graduate-program--)
-  * [Northeastern University, [PhD in Network Science](https://netsi.khoury.northeastern.edu/)](#northeastern-university---phd-in-network-science--https---netsikhourynortheasternedu--)
-  * [Boston University, [College of Communication](http://www.bu.edu/com/academics/emerging-media-studies/phd-in-emerging-media-studies/)](#boston-university---college-of-communication--http---wwwbuedu-com-academics-emerging-media-studies-phd-in-emerging-media-studies--)
-- [South](#south)
-  * [Duke, [Computer Science](https://scholar.google.com/citations?user=BICiUrQAAAAJ)](#duke---computer-science--https---scholargooglecom-citations-user-biciurqaaaaj-)
-  * [UNC-Chapel Hill, [Hussman School of Media and Journalism](http://hussman.unc.edu/grad)](#unc-chapel-hill---hussman-school-of-media-and-journalism--http---hussmanuncedu-grad-)
-- [Outside of USA](#outside-of-usa)
-  * [Japan, Tokyo Institute of Technology](#japan--tokyo-institute-of-technology)
-  * [South Korea, KAIST, [IBS Data Science Group](https://ds.ibs.re.kr/)](#south-korea--kaist---ibs-data-science-group--https---dsibsrekr--)
-  * [Singapore, Singapore Management University, [School of Computing and Information Systems](https://scis.smu.edu.sg/programmes/PhD/overview)](#singapore--singapore-management-university---school-of-computing-and-information-systems--https---scissmuedusg-programmes-phd-overview-)
-  * [China, UESTC，[School of Computer Science and Engineering](https://www.scse.uestc.edu.cn/rcpy/zsjz.htm)](#china--uestc--school-of-computer-science-and-engineering--https---wwwscseuestceducn-rcpy-zsjzhtm-)
-  * [China, Chinese University of Hong Kong, [School of Journalism and Communication](http://pg.com.cuhk.edu.hk/)](#china--chinese-university-of-hong-kong---school-of-journalism-and-communication--http---pgcomcuhkeduhk--)
-  * [China, CityU of Hong Kong, [Department of Media and Communication](https://www.cityu.edu.hk/com/Page.aspx?p=PHD_Introduction)](#china--cityu-of-hong-kong---department-of-media-and-communication--https---wwwcityueduhk-com-pageaspx-p-phd-introduction-)
-
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+-   [West](#west)
+    -   [University of Washington](#university-of-washington)
+    -   [USC, [Annenberg School for Communication and
+        Journalism](https://annenberg.usc.edu/communication/communication-phd)](#usc-annenberg-school-for-communication-and-journalism)
+    -   [UCLA, [Department of
+        Communication](https://comm.ucla.edu/graduate/program/)](#ucla-department-of-communication)
+    -   [UC Davis, [Department of
+        Communication](https://communication.ucdavis.edu/graduate/program)](#uc-davis-department-of-communication)
+    -   [Stanford](#stanford)
+    -   [University of Colorado Boulder, [Computer
+        Science](https://www.colorado.edu/cs/academics/graduate-programs)](#university-of-colorado-boulder-computer-science)
+-   [Midwest](#midwest)
+    -   [Indiana University, [Department of
+        Informatics](https://informatics.indiana.edu/)](#indiana-university-department-of-informatics)
+    -   [Northwestern University](#northwestern-university)
+    -   [University of Chicago, [Department of Computer
+        Science](https://computerscience.uchicago.edu/graduate/phd-programs/)](#university-of-chicago-department-of-computer-science)
+    -   [University of Michigan, [School of
+        Information](https://www.si.umich.edu/)](#university-of-michigan-school-of-information)
+    -   [UIUC, [Department of
+        Communication](https://communication.illinois.edu/academics/ma-phd-program)](#uiuc-department-of-communication)
+    -   [MSU, [Department of
+        Communication](https://comartsci.msu.edu/academics/academic-departments/communication/graduate/phd-communication)](#msu-department-of-communication)
+-   [Northeast](#northeast)
+    -   [Upenn](#upenn)
+    -   [MIT, [Media
+        Lab](https://www.media.mit.edu/graduate-program/about-media-arts-sciences/)](#mit-media-lab)
+    -   [Pittsburgh, [School of Computing and
+        Information](https://www.sci.pitt.edu/academics/doctoral-degrees)](#pittsburgh-school-of-computing-and-information)
+    -   [Drexel, [College of Computing and
+        Informatics](https://drexel.edu/cci/academics/doctoral-programs/)](#drexel-college-of-computing-and-informatics)
+    -   [Vermont, [Vermont Complex Systems
+        Center](https://vermontcomplexsystems.org/education/phd/)](#vermont-vermont-complex-systems-center)
+    -   [Rochester, [Department of Computer
+        Science](https://www.cs.rochester.edu/graduate/phd-program.html)](#rochester-department-of-computer-science)
+    -   [UMass](#umass)
+    -   [Cornell](#cornell)
+    -   [Northeastern University, [PhD in Network
+        Science](https://netsi.khoury.northeastern.edu/)](#northeastern-university-phd-in-network-science)
+    -   [Boston University, [College of
+        Communication](http://www.bu.edu/com/academics/emerging-media-studies/phd-in-emerging-media-studies/)](#boston-university-college-of-communication)
+-   [South](#south)
+    -   [Duke, [Computer
+        Science](https://scholar.google.com/citations?user=BICiUrQAAAAJ)](#duke-computer-science)
+    -   [UNC-Chapel Hill, [Hussman School of Media and
+        Journalism](http://hussman.unc.edu/grad)](#unc-chapel-hill-hussman-school-of-media-and-journalism)
+-   [Outside of USA](#outside-of-usa)
+    -   [Japan, Tokyo Institute of
+        Technology](#japan-tokyo-institute-of-technology)
+    -   [South Korea, KAIST, [IBS Data Science
+        Group](https://ds.ibs.re.kr/)](#south-korea-kaist-ibs-data-science-group)
+    -   [Singapore, Singapore Management University, [School of
+        Computing and Information
+        Systems](https://scis.smu.edu.sg/programmes/PhD/overview)](#singapore-singapore-management-university-school-of-computing-and-information-systems)
+    -   [China, UESTC，[School of Computer Science and
+        Engineering](https://www.scse.uestc.edu.cn/rcpy/zsjz.htm)](#china-uestcschool-of-computer-science-and-engineering)
+    -   [China, Chinese University of Hong Kong, [School of Journalism
+        and
+        Communication](http://pg.com.cuhk.edu.hk/)](#china-chinese-university-of-hong-kong-school-of-journalism-and-communication)
+    -   [China, CityU of Hong Kong, [Department of Media and
+        Communication](https://www.cityu.edu.hk/com/Page.aspx?p=PHD_Introduction)](#china-cityu-of-hong-kong-department-of-media-and-communication)
 
 ## West
 
