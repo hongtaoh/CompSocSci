@@ -7,7 +7,7 @@ https://stackoverflow.com/a/42249534
 
 pandoc -s --toc README.md -o toc.md -->
 
-The list is incomplete. More at [Google Scholar](https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label%3Acomputational_social_science&btnG=)
+The list is incomplete. More at [Google Scholar](https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label%3Acomputational_social_science&btnG=).
 
 ## Contibution
 
@@ -135,6 +135,8 @@ To contribute, please fork this repository, and [submit a pull request](https://
 - [Ceren Budak](https://www.si.umich.edu/people/ceren-budak), [Google Scholar](https://scholar.google.com/citations?user=wIhJS60AAAAJ&hl=en&oi=ao)
 
 - [Misha Teplitskiy](https://www.si.umich.edu/people/misha-teplitskiy), [Google Scholar](https://scholar.google.com/citations?user=DzSXZd9yYy8C&hl=en&oi=ao)
+
+You can find more people working on computational social science at https://css.si.umich.edu/people.html.
 
 ### UIUC
 
