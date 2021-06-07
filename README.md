@@ -1,11 +1,4 @@
-# Computational Social Science, Graduate Programs and Researchers
-
-<!-- 
-https://pandoc.org/MANUAL.html
-
-https://stackoverflow.com/a/42249534
-
-pandoc -s --toc README.md -o toc.md -->
+# Computational Social Science: Graduate Programs and Researchers
 
 The list is incomplete. More at [Google Scholar](https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label%3Acomputational_social_science&btnG=).
 
@@ -49,6 +42,7 @@ To contribute, please fork this repository, and [submit a pull request](https://
     -   [South Korea](#south-korea)
     -   [Singapore](#singapore)
     -   [China](#china)
+    -   [Switzerland](#switzerland)
 
 ## West
 
@@ -136,7 +130,7 @@ To contribute, please fork this repository, and [submit a pull request](https://
 
 - [Misha Teplitskiy](https://www.si.umich.edu/people/misha-teplitskiy), [Google Scholar](https://scholar.google.com/citations?user=DzSXZd9yYy8C&hl=en&oi=ao)
 
-You can find more people working on computational social science at https://css.si.umich.edu/people.html.
+You may find more people working on computational social science at UMSI at [here](https://www.si.umich.edu/people/directory/faculty?research_area%5B39%5D=39) or https://css.si.umich.edu/people.html
 
 ### UIUC
 
@@ -308,5 +302,15 @@ There is also a program at Duke called [Computational Media, Arts & Cultures](ht
 #### CityU of Hong Kong, [Department of Media and Communication](https://www.cityu.edu.hk/com/Page.aspx?p=PHD_Introduction)
 
 - [Jonathan Zhu](https://www.cityu.edu.hk/com/Profile.aspx?u=enjhzhu), [Google Scholar](https://scholar.google.com/citations?user=q41vFFQAAAAJ&hl=en&oi=ao)
+
+### Switzerland
+
+#### EPFL, [School of Computer and Communication Sciences](https://www.epfl.ch/education/phd/edic-computer-and-communication-sciences/)
+
+- [Robert West](https://dlab.epfl.ch/people/west/), [Google Scholar](https://scholar.google.com/citations?user=ZiFn598AAAAJ&hl=en&oi=ao)
+
+#### ETH Zurich, [Computational Social Science](https://coss.ethz.ch/about/positions.html)
+
+- [Dirk Helbing](https://coss.ethz.ch/people/helbing.html), [Google Scholar](https://scholar.google.ch/citations?user=ebrNfPAAAAAJ)
 
 
