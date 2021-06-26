@@ -43,6 +43,7 @@ To contribute, please fork this repository, and [submit a pull request](https://
     -   [Singapore](#singapore)
     -   [China](#china)
     -   [Switzerland](#switzerland)
+    -   [Poland](#poland)
 
 ## West
 
@@ -144,6 +145,11 @@ You may find more people working on computational social science at UMSI at [her
 
 - [Tai-Quan "Winson" Peng](https://comartsci.msu.edu/our-people/taiquan-winson-peng), [Google Scholar](https://scholar.google.com/citations?user=iF4HlRQAAAAJ&hl=en&oi=ao)
 
+### Wisconsin
+
+#### [School of Journalism and Mass Communication](https://journalism.wisc.edu/)
+
+- [Sijia Yang](https://journalism.wisc.edu/news/staff/yang-sijia/), [Google Scholar](https://scholar.google.com/citations?user=PQJnIWkAAAAJ&hl=en&oi=ao)
 
 ## Northeast
 
@@ -313,4 +319,8 @@ There is also a program at Duke called [Computational Media, Arts & Cultures](ht
 
 - [Dirk Helbing](https://coss.ethz.ch/people/helbing.html), [Google Scholar](https://scholar.google.ch/citations?user=ebrNfPAAAAAJ)
 
+### Poland
 
+#### SGH Warsaw School of Economics
+
+- [Bogumił Kamiński](http://bogumilkaminski.pl/about/), [Google Scholar](https://scholar.google.com/citations?user=0YrRr1oAAAAJ&hl=en&oi=ao)
