@@ -6,6 +6,19 @@ The list is incomplete. More at [Google Scholar](https://scholar.google.com/cita
 
 To contribute, please fork this repository, and [submit a pull request](https://hongtaoh.com/en/2020/10/05/github-pull-request/). 
 
+## License
+
+Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
+
 ## Table of Contents
 
 -   [West](#west)
@@ -23,6 +36,7 @@ To contribute, please fork this repository, and [submit a pull request](https://
     -   [University of Michigan](#university-of-michigan)
     -   [UIUC](#uiuc)
     -   [MSU](#msu)
+    -   [Wisconsin](#wisconsin)
 -   [Northeast](#northeast)
     -   [Upenn](#upenn)
     -   [MIT](#mit)
